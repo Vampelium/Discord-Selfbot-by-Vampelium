@@ -20,7 +20,7 @@ Running a self-bot is against Discord's Terms of Service and can lead to account
    ```
 3. Install dependencies:
    ```powershell
-   pip install discord.py openai python-dotenv
+    pip install discord.py-self openai python-dotenv
    ```
 4. Configure secrets:
    - Open `bot.py` and replace the placeholder values for `DISCORD_TOKEN`, `OPENAI_API_KEY`, `TRIGGER_WORD`, and `AI_MODEL`.
